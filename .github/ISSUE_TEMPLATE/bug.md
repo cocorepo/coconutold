@@ -3,7 +3,7 @@ name: Bug
 about: Your feedback helps the project get better
 title: ''
 labels: bug
-assignees: cartmandos
+assignees: cocorepo
 
 ---
 

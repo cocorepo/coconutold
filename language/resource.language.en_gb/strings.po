@@ -1,7 +1,7 @@
 # Kodi Media Center language file
 # Addon Name: Titan Bingie
-# Addon id: skin.titan.bingie
-# Addon Provider: cartmandos, marcelveldt
+# Addon id: skin.coconut
+# Addon Provider: cocorepo, marcelveldt
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Skins\n"
